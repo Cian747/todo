@@ -1,0 +1,4 @@
+env/
+.envt
+notes.txt
+pyc*
